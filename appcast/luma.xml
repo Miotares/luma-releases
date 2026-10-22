@@ -3,6 +3,47 @@
   <channel>
     <title>Luma</title>
     <item>
+      <title>1.0.0</title>
+      <pubDate>Thu, 22 Oct 2026 19:46:03 GMT</pubDate>
+      <sparkle:version>134</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Luma für Mac 1.0&lt;/h2&gt;
+&lt;p&gt;Die erste fertige Version von Luma für Mac und dem kostenlosen Helfer Luma Transfer.&lt;/p&gt;
+&lt;h3&gt;Luma für Mac&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deine Musikordner als Mediathek: Alben, Künstler, Songs, Playlists und Sammlungen, ohne Import und ohne Kopien&lt;/li&gt;
+&lt;li&gt;Verlustfreie Wiedergabe (FLAC, ALAC, MP3, AAC, WAV, AIFF und Opus), lückenlos, mit Equalizer, Crossfade und Lautstärkeangleichung&lt;/li&gt;
+&lt;li&gt;Eigene Startseite mit angehefteten Playlists, Alben, Sammlungen und Künstlern&lt;/li&gt;
+&lt;li&gt;Intelligente Playlists mit eigenen Regeln, Suche mit Schnellstart, Warteschlange als Seitenleiste&lt;/li&gt;
+&lt;li&gt;Mitlaufende Liedtexte, Hörstatistiken und Infos bearbeiten, direkt in die Musikdatei&lt;/li&gt;
+&lt;li&gt;Mini-Player in der Menüleiste, Medientasten und auf Wunsch dein aktueller Song als Discord-Status&lt;/li&gt;
+&lt;li&gt;Musik direkt ans iPhone oder iPad senden, über WLAN oder USB-Kabel&lt;/li&gt;
+&lt;li&gt;Beim ersten Start führt Luma dich durch das Einrichten deiner Musikordner&lt;/li&gt;
+&lt;li&gt;30 Tage kostenlos testen, danach einmalig 39 € (kein Abo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Neu seit der Beta:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Einrichtung beim ersten Start&lt;/li&gt;
+&lt;li&gt;Einstellungen für intelligente Playlists auch auf dem Mac. Ihre feste Reihenfolge bleibt erhalten.&lt;/li&gt;
+&lt;li&gt;Alben und Playlists scrollen mit dem laufenden Song mit&lt;/li&gt;
+&lt;li&gt;Ruhigere Einstellungen mit Hover-Rückmeldung&lt;/li&gt;
+&lt;li&gt;Texte überarbeitet und vollständig auf Englisch&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Luma Transfer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Schickt Musik vom Mac an Luma auf iPhone und iPad, auch ohne Luma für Mac&lt;/li&gt;
+&lt;li&gt;Kostenlos, über WLAN oder USB-Kabel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Beide Apps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Aktualisieren sich selbst. Die Suche nach Updates lässt sich in den Einstellungen abschalten.&lt;/li&gt;
+&lt;li&gt;Laufen ab macOS 26.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feedback und Fehler gerne über die &lt;a href="https://suenavus.com/luma/help/"&gt;Hilfeseite&lt;/a&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Miotares/luma-releases/releases/download/mac-v1.0.0/Luma.dmg" length="6931026" type="application/octet-stream" sparkle:edSignature="roY1YfXeXl0adhE6lZj/omkBa1eIOEve5YUsGI5A2Mde8Q3sEw6Ku85Zkm4YVleEHgD4ZvxsGKjbOKVCTJ8EBg==" />
+    </item>
+    <item>
       <title>1.0.0-beta.2</title>
       <pubDate>Thu, 22 Oct 2026 16:06:02 GMT</pubDate>
       <sparkle:version>120</sparkle:version>
