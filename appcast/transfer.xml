@@ -3,6 +3,21 @@
   <channel>
     <title>Luma Transfer</title>
     <item>
+      <title>1.0.0-beta.2</title>
+      <pubDate>Thu, 22 Oct 2026 16:06:02 GMT</pubDate>
+      <sparkle:version>120</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description>&lt;h2&gt;Luma für Mac 1.0 Beta 2&lt;/h2&gt;
+&lt;p&gt;Diese Beta prüft die neue Update-Funktion. Inhaltlich ist sie gleich wie Beta 1.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Luma und Luma Transfer aktualisieren sich selbst. Ab dieser Version kommen neue Betas automatisch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feedback und Fehler gerne über die &lt;a href="https://suenavus.com/luma/help/"&gt;Hilfeseite&lt;/a&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Miotares/luma-releases/releases/download/mac-v1.0.0-beta.2/Luma-Transfer.dmg" length="2217616" type="application/octet-stream" sparkle:edSignature="nUSOWgpyYHFPk7h8qRELppZC2onYCOVBY7D1XHKfzz5v2a5Ns6qeMJ1HQ5xjO59THEc5KwbvZLz/5ufmBN/SDQ==" />
+    </item>
+    <item>
       <title>1.0.0-beta.1</title>
       <pubDate>Thu, 22 Oct 2026 15:58:06 GMT</pubDate>
       <sparkle:version>119</sparkle:version>
