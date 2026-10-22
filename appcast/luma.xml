@@ -4,11 +4,44 @@
     <title>Luma</title>
     <item>
       <title>1.0.0</title>
-      <pubDate>Thu, 22 Oct 2026 19:46:03 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 19:49:40 GMT</pubDate>
       <sparkle:version>134</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>&lt;h2&gt;Luma für Mac 1.0&lt;/h2&gt;
+      <description>&lt;h2&gt;Luma for Mac 1.0&lt;/h2&gt;
+&lt;p&gt;The first finished version of Luma for Mac and the free helper Luma Transfer.&lt;/p&gt;
+&lt;h3&gt;Luma for Mac&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Your music folders as a library: albums, artists, songs, playlists and collections, with no import and no copies&lt;/li&gt;
+&lt;li&gt;Lossless playback (FLAC, ALAC, MP3, AAC, WAV, AIFF and Opus), gapless, with equalizer, crossfade and volume normalization&lt;/li&gt;
+&lt;li&gt;Your own Home page with pinned playlists, albums, collections and artists&lt;/li&gt;
+&lt;li&gt;Smart playlists with your own rules, search with quick start, the queue as a sidebar&lt;/li&gt;
+&lt;li&gt;Synced lyrics, listening stats and song info editing, written straight into the music file&lt;/li&gt;
+&lt;li&gt;Mini player in the menu bar, media keys and, if you like, your current song as your Discord status&lt;/li&gt;
+&lt;li&gt;Send music straight to your iPhone or iPad, over Wi-Fi or USB cable&lt;/li&gt;
+&lt;li&gt;On first launch, Luma walks you through setting up your music folders&lt;/li&gt;
+&lt;li&gt;Try it free for 30 days, then a one-time 39 € (no subscription)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;New since the beta:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Setup on first launch&lt;/li&gt;
+&lt;li&gt;Smart playlist settings on the Mac too. Their fixed order is kept.&lt;/li&gt;
+&lt;li&gt;Albums and playlists scroll along with the playing song&lt;/li&gt;
+&lt;li&gt;Calmer settings with hover feedback&lt;/li&gt;
+&lt;li&gt;Revised texts and a complete English translation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Luma Transfer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sends music from your Mac to Luma on iPhone and iPad, even without Luma for Mac&lt;/li&gt;
+&lt;li&gt;Free, over Wi-Fi or USB cable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Both apps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update themselves. Checking for updates can be turned off in Settings.&lt;/li&gt;
+&lt;li&gt;Run on macOS 26 and later.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feedback and bugs are welcome on the &lt;a href="https://suenavus.com/luma/en/help/"&gt;help page&lt;/a&gt;.&lt;/p&gt;</description>
+      <description xml:lang="de">&lt;h2&gt;Luma für Mac 1.0&lt;/h2&gt;
 &lt;p&gt;Die erste fertige Version von Luma für Mac und dem kostenlosen Helfer Luma Transfer.&lt;/p&gt;
 &lt;h3&gt;Luma für Mac&lt;/h3&gt;
 &lt;ul&gt;
