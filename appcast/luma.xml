@@ -3,6 +3,45 @@
   <channel>
     <title>Luma</title>
     <item>
+      <title>1.0.1</title>
+      <pubDate>Fri, 23 Oct 2026 14:20:19 GMT</pubDate>
+      <sparkle:version>145</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Luma for Mac 1.0.1&lt;/h2&gt;
+&lt;h3&gt;Send to iPhone (Luma and Luma Transfer)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Large transfers run much more smoothly, even with thousands of songs. Works best together with Luma 1.5.1 on the iPhone.&lt;/li&gt;
+&lt;li&gt;New overview at the top: how many songs have arrived, percentage, progress bar and time left&lt;/li&gt;
+&lt;li&gt;The list follows the song that is being sent&lt;/li&gt;
+&lt;li&gt;If the connection drops, the transfer no longer gets stuck. Sending again only transfers what is still missing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Luma for Mac&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;New backup: playlists, collections, likes and listening statistics in one file. Find it under Settings ▸ Library ▸ Backup or in the File menu. Music files are not included.&lt;/li&gt;
+&lt;li&gt;Several songs selected: a right-click opens a menu for the whole selection, Esc clears it&lt;/li&gt;
+&lt;li&gt;The hand cursor on albums, playlists and collections appears right away&lt;/li&gt;
+&lt;li&gt;English texts now say "1 album" instead of "1 albums"&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feedback and bug reports are welcome on the &lt;a href="https://suenavus.com/luma/help/"&gt;help page&lt;/a&gt;.&lt;/p&gt;</description>
+      <description xml:lang="de">&lt;h2&gt;Luma für Mac 1.0.1&lt;/h2&gt;
+&lt;h3&gt;Ans iPhone senden (Luma und Luma Transfer)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Große Übertragungen laufen deutlich flüssiger, auch mit Tausenden Songs. Am besten zusammen mit Luma 1.5.1 auf dem iPhone.&lt;/li&gt;
+&lt;li&gt;Neue Übersicht oben: wie viele Songs schon angekommen sind, Prozent, Fortschrittsbalken und Restzeit&lt;/li&gt;
+&lt;li&gt;Die Liste folgt dem Song, der gerade übertragen wird&lt;/li&gt;
+&lt;li&gt;Bricht die Verbindung ab, bleibt die Übertragung nicht mehr hängen. Nochmal senden überträgt nur, was noch fehlt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Luma für Mac&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Neue Sicherung: Playlists, Sammlungen, Likes und Hörstatistiken in einer Datei. Zu finden unter Einstellungen ▸ Mediathek ▸ Sicherung oder im Menü Ablage. Musikdateien sind nicht enthalten.&lt;/li&gt;
+&lt;li&gt;Mehrere Songs ausgewählt: Ein Rechtsklick öffnet ein Menü für die ganze Auswahl, Esc hebt sie auf&lt;/li&gt;
+&lt;li&gt;Der Hand-Cursor auf Alben, Playlists und Sammlungen erscheint sofort&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feedback und Fehler gerne über die &lt;a href="https://suenavus.com/luma/help/"&gt;Hilfeseite&lt;/a&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Miotares/luma-releases/releases/download/mac-v1.0.1/Luma.dmg" length="7085923" type="application/octet-stream" sparkle:edSignature="TuxOhKgLTOSA/HdhEyZyFCrZHOWxN2BUunk9BPUgCyV1/OHgm+Oy7VmBTFeADkjnWccma2feMgzf9KXz5L93Cg==" />
+    </item>
+    <item>
       <title>1.0.0</title>
       <pubDate>Thu, 22 Oct 2026 19:49:40 GMT</pubDate>
       <sparkle:version>134</sparkle:version>
