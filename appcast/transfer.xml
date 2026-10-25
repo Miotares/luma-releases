@@ -3,6 +3,66 @@
   <channel>
     <title>Luma Transfer</title>
     <item>
+      <title>1.1.0</title>
+      <pubDate>Sun, 25 Oct 2026 16:54:52 GMT</pubDate>
+      <sparkle:version>173</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Luma for Mac 1.1.0&lt;/h2&gt;
+&lt;h3&gt;New in Luma for Mac&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Quick search from anywhere: ⌃⌥Space opens a search field over any app, even while Luma is in the background. ↩ plays the top hit, ⌥↩ plays it next, ⌘↩ shows it in Luma. You can change the shortcut under Settings ▸ Playback ▸ Quick Search.&lt;/li&gt;
+&lt;li&gt;Technical Details: a song's format, sample rate, bit depth, bitrate and loudness, and for the playing song the signal path to the output device plus a live spectrogram. Turn it on under Settings ▸ Playback ▸ Advanced, then right-click a song or use the button in the mini player.&lt;/li&gt;
+&lt;li&gt;Large cover in the mini player, under Settings ▸ Appearance&lt;/li&gt;
+&lt;li&gt;Volume control in the menu bar player&lt;/li&gt;
+&lt;li&gt;New Dock menu: control playback, like the song, shuffle and repeat right from the Dock&lt;/li&gt;
+&lt;li&gt;New playlists open the song picker right away. Empty playlists get an "Add Songs" button.&lt;/li&gt;
+&lt;li&gt;Collections are now sorted by year, oldest album first. Drag the albums into an order of your own and it stays. "Sort by Year" in the collection's menu brings the sorting back.&lt;/li&gt;
+&lt;li&gt;Rows you can drag show a grab hand&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Send to iPhone (Luma and Luma Transfer)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lyrics come along: if a lyrics file (.lrc, .elrc, .ttml or .txt) sits next to a song, it is sent with it. Songs already on the iPhone simply get their lyrics added. The iPhone needs Luma 1.6 for this.&lt;/li&gt;
+&lt;li&gt;Lyrics files are also matched to the right song more reliably on import, and they take priority over lyrics in the tags&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The mini player looks the same when the window is not in front&lt;/li&gt;
+&lt;li&gt;The search field responds to the first trackpad click&lt;/li&gt;
+&lt;li&gt;The app icon picker follows every click&lt;/li&gt;
+&lt;li&gt;A reopened window shows the albums at the right size at once. The menu bar player brings back a minimized window instead of opening a second one.&lt;/li&gt;
+&lt;li&gt;Lyrics and Technical Details no longer show through the tip of the popover&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feedback and bug reports are welcome on the &lt;a href="https://suenavus.com/luma/help/"&gt;help page&lt;/a&gt;.&lt;/p&gt;</description>
+      <description xml:lang="de">&lt;h2&gt;Luma für Mac 1.1.0&lt;/h2&gt;
+&lt;h3&gt;Neu in Luma für Mac&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Schnellsuche von überall: ⌃⌥Leertaste öffnet ein Suchfeld über jeder App, auch wenn Luma im Hintergrund läuft. ↩ spielt den Treffer, ⌥↩ spielt ihn als Nächstes, ⌘↩ zeigt ihn in Luma. Das Tastenkürzel lässt sich unter Einstellungen ▸ Wiedergabe ▸ Schnellsuche ändern.&lt;/li&gt;
+&lt;li&gt;Technische Details: Format, Abtastrate, Bittiefe, Bitrate und Lautheit eines Songs, beim laufenden Song dazu der Weg des Signals bis zum Ausgabegerät und ein Live-Spektrogramm. Einschalten unter Einstellungen ▸ Wiedergabe ▸ Erweitert, danach per Rechtsklick auf einen Song oder über den Knopf im Mini-Player.&lt;/li&gt;
+&lt;li&gt;Großes Cover im Mini-Player, wählbar unter Einstellungen ▸ Darstellung&lt;/li&gt;
+&lt;li&gt;Lautstärkeregler im Menüleisten-Player&lt;/li&gt;
+&lt;li&gt;Neues Dock-Menü: Wiedergabe steuern, den Song liken, Zufall und Wiederholen direkt aus dem Dock&lt;/li&gt;
+&lt;li&gt;Neue Playlists öffnen gleich die Song-Auswahl. Leere Playlists haben einen Knopf „Songs hinzufügen“.&lt;/li&gt;
+&lt;li&gt;Sammlungen sind jetzt nach Jahr sortiert, das älteste Album zuerst. Ziehst du die Alben in eine eigene Reihenfolge, bleibt sie erhalten. „Nach Jahr sortieren“ im Menü der Sammlung stellt die Sortierung wieder her.&lt;/li&gt;
+&lt;li&gt;Zeilen, die sich verschieben lassen, zeigen eine Greif-Hand&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Ans iPhone senden (Luma und Luma Transfer)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Liedtexte reisen mit: Liegt neben einem Song eine Liedtext-Datei (.lrc, .elrc, .ttml oder .txt), wird sie mitgeschickt. Für Songs, die schon auf dem iPhone sind, kommen die Liedtexte einfach nach. Dafür braucht das iPhone Luma 1.6.&lt;/li&gt;
+&lt;li&gt;Liedtext-Dateien werden auch beim Import zuverlässiger dem richtigen Song zugeordnet und haben Vorrang vor Liedtexten in den Tags&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Behoben&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Der Mini-Player sieht gleich aus, auch wenn das Fenster nicht im Vordergrund ist&lt;/li&gt;
+&lt;li&gt;Das Suchfeld reagiert schon auf den ersten Klick mit dem Trackpad&lt;/li&gt;
+&lt;li&gt;Die Auswahl beim App-Symbol folgt jedem Klick&lt;/li&gt;
+&lt;li&gt;Ein wieder geöffnetes Fenster zeigt die Alben sofort in der richtigen Größe. Der Menüleisten-Player holt ein minimiertes Fenster zurück, statt ein zweites zu öffnen.&lt;/li&gt;
+&lt;li&gt;Liedtexte und Technische Details scheinen nicht mehr durch die Spitze des Popovers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feedback und Fehler gerne über die &lt;a href="https://suenavus.com/luma/help/"&gt;Hilfeseite&lt;/a&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Miotares/luma-releases/releases/download/mac-v1.1.0/Luma-Transfer.dmg" length="2052096" type="application/octet-stream" sparkle:edSignature="A/Z/Jo55Rm6E1x38HVb/Zl0aYbJp9Y3AyXWFjO2EZz087chdUe9GqhNyjf3QHRyQkLYs8v0hoNbYH3DybqULBw==" />
+    </item>
+    <item>
       <title>1.0.1</title>
       <pubDate>Fri, 23 Oct 2026 14:20:19 GMT</pubDate>
       <sparkle:version>145</sparkle:version>
