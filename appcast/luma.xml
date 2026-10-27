@@ -3,6 +3,78 @@
   <channel>
     <title>Luma</title>
     <item>
+      <title>1.2.0</title>
+      <pubDate>Tue, 27 Oct 2026 22:55:47 GMT</pubDate>
+      <sparkle:version>209</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Luma for Mac 1.2.0&lt;/h2&gt;
+&lt;h3&gt;Dynamic Playlists&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Playlists that fill themselves: you set rules, Luma finds the matching songs and keeps the list up to date. Rules cover genre, artist, album, year, plays, last played, date added, liked, format and length. Songs can match all rules or just one.&lt;/li&gt;
+&lt;li&gt;Optionally limited, for example to 50 random songs or the 100 most played. "Reshuffle" draws a new random pick.&lt;/li&gt;
+&lt;li&gt;Create one with the "+" at the bottom of the sidebar or "New" on the Playlists page. Right-click to edit the rules or to convert it into a regular playlist that keeps its current songs.&lt;/li&gt;
+&lt;li&gt;Dynamic playlists have their own section above the other playlists, in the sidebar too. Under Settings ▸ General you can show all playlists in one list instead.&lt;/li&gt;
+&lt;li&gt;The automatic lists of earlier versions (Most Played, Recently Played, Recently Added, Liked) become dynamic playlists with this update if you had them turned on. You can now adjust them yourself.&lt;/li&gt;
+&lt;li&gt;The backup under Settings ▸ Library includes dynamic playlists and their rules.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Sidebar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rename, change the cover of and delete playlists and collections right in the sidebar (right-click)&lt;/li&gt;
+&lt;li&gt;Hover over a playlist or collection to get play and shuffle. While it plays, play becomes pause.&lt;/li&gt;
+&lt;li&gt;The playlist or collection that is playing is marked in the sidebar&lt;/li&gt;
+&lt;li&gt;New "+" at the bottom of the sidebar for playlists, dynamic playlists and collections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Also New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Collections get their own covers like playlists: mosaic, your own image or a pattern&lt;/li&gt;
+&lt;li&gt;The cover editor is now a proper Mac window. Choose an image, take one from Photos or just drop it onto the cover.&lt;/li&gt;
+&lt;li&gt;Adding albums to a collection opens a Mac window with search and checkboxes&lt;/li&gt;
+&lt;li&gt;The settings window keeps the same size on every tab&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A license is no longer lost when Polar is briefly unreachable or a network returns a wrong answer. If a license really is no longer active, the key stays saved and "Activate Again" unlocks Luma once more.&lt;/li&gt;
+&lt;li&gt;While a song you queued yourself is playing, Luma no longer shows the playlist as playing&lt;/li&gt;
+&lt;li&gt;Deleting a playlist while its page is open now closes the page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luma Transfer has no new features in this version.&lt;/p&gt;
+&lt;p&gt;Feedback and bug reports are welcome on the &lt;a href="https://suenavus.com/luma/help/"&gt;help page&lt;/a&gt;.&lt;/p&gt;</description>
+      <description xml:lang="de">&lt;h2&gt;Luma für Mac 1.2.0&lt;/h2&gt;
+&lt;h3&gt;Dynamische Playlists&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Playlists, die sich selbst füllen: Du legst Regeln fest, Luma sucht die passenden Songs und hält die Liste aktuell. Regeln gibt es für Genre, Interpret, Album, Jahr, Wiedergaben, zuletzt gespielt, hinzugefügt, Liked, Format und Länge. Es müssen alle Regeln passen oder nur eine.&lt;/li&gt;
+&lt;li&gt;Auf Wunsch begrenzt, zum Beispiel auf 50 zufällige Songs oder die 100 meistgespielten. „Neu mischen“ zieht eine neue Zufallsauswahl.&lt;/li&gt;
+&lt;li&gt;Neue dynamische Playlists legst du über das „+“ unten in der Seitenleiste oder über „Neu“ auf der Playlists-Seite an. Per Rechtsklick kannst du die Regeln bearbeiten oder die Playlist in eine normale umwandeln, die dann die aktuellen Songs behält.&lt;/li&gt;
+&lt;li&gt;Dynamische Playlists stehen in einem eigenen Abschnitt über den anderen Playlists, auch in der Seitenleiste. Unter Einstellungen ▸ Allgemein kannst du alle Playlists in einer Liste zusammenführen.&lt;/li&gt;
+&lt;li&gt;Die automatischen Listen früherer Versionen (Meistgespielt, Zuletzt gespielt, Zuletzt hinzugefügt, Liked) werden beim Update zu dynamischen Playlists, falls du sie eingeschaltet hattest. Du kannst sie jetzt selbst anpassen.&lt;/li&gt;
+&lt;li&gt;Die Sicherung unter Einstellungen ▸ Mediathek enthält auch die dynamischen Playlists mit ihren Regeln.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Seitenleiste&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Playlists und Sammlungen lassen sich direkt in der Seitenleiste umbenennen, mit einem neuen Cover versehen und löschen (Rechtsklick)&lt;/li&gt;
+&lt;li&gt;Fährst du über eine Playlist oder Sammlung, erscheinen Abspielen und Zufallswiedergabe. Läuft sie gerade, wird daraus Pause.&lt;/li&gt;
+&lt;li&gt;Die Playlist oder Sammlung, aus der gerade Musik läuft, ist in der Seitenleiste markiert&lt;/li&gt;
+&lt;li&gt;Neues „+“ unten in der Seitenleiste für Playlists, dynamische Playlists und Sammlungen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Außerdem neu&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sammlungen bekommen eigene Cover wie Playlists: Mosaik, eigenes Bild oder Muster&lt;/li&gt;
+&lt;li&gt;Der Cover-Editor ist jetzt ein echtes Mac-Fenster. Ein Bild kannst du auswählen, aus Fotos holen oder einfach auf das Cover ziehen.&lt;/li&gt;
+&lt;li&gt;Alben zu einer Sammlung hinzufügen geht in einem eigenen Mac-Fenster mit Suche und Häkchen&lt;/li&gt;
+&lt;li&gt;Das Einstellungsfenster behält auf jedem Tab dieselbe Größe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Behoben&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Eine Lizenz geht nicht mehr verloren, wenn Polar kurz nicht erreichbar ist oder ein Netzwerk eine falsche Antwort liefert. Ist eine Lizenz wirklich nicht mehr aktiv, bleibt der Schlüssel gespeichert und lässt sich mit „Erneut aktivieren“ wieder freischalten.&lt;/li&gt;
+&lt;li&gt;Wird gerade ein Song gespielt, den du selbst in die Warteschlange gelegt hast, zeigt Luma nicht mehr fälschlich die Playlist als laufend an&lt;/li&gt;
+&lt;li&gt;Wird eine Playlist gelöscht, während ihre Seite offen ist, schließt sich die Seite&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luma Transfer bekommt in dieser Version keine neuen Funktionen.&lt;/p&gt;
+&lt;p&gt;Feedback und Fehler gerne über die &lt;a href="https://suenavus.com/luma/help/"&gt;Hilfeseite&lt;/a&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Miotares/luma-releases/releases/download/mac-v1.2.0/Luma.dmg" length="8008016" type="application/octet-stream" sparkle:edSignature="WXEmob2kQv2LOy8Oyp1JXD4MIsT/94WiAhDTswIhVy1k7Za1IshTdDN9n5sGLpNejiXZzqckT5nkUGM10RIfAA==" />
+    </item>
+    <item>
       <title>1.1.0</title>
       <pubDate>Sun, 25 Oct 2026 16:54:52 GMT</pubDate>
       <sparkle:version>173</sparkle:version>
