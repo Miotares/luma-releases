@@ -3,6 +3,88 @@
   <channel>
     <title>Luma</title>
     <item>
+      <title>1.4.0</title>
+      <pubDate>Sun, 15 Nov 2026 23:21:14 GMT</pubDate>
+      <sparkle:version>318</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Luma for Mac 1.4.0&lt;/h2&gt;
+&lt;h3&gt;Beat Mix&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Beat Mix changes songs like a DJ: it looks for fitting spots, blends on the beat, swaps the bass, cuts on the beat or blends with filter and echo. When none of that fits, Cross-Fade applies.&lt;/li&gt;
+&lt;li&gt;Turn it on and off right in the queue header. During a transition, "Beat Mix" shines in the now-playing bar.&lt;/li&gt;
+&lt;li&gt;Two modes under Settings ▸ Playback: Smooth for gentle transitions, DJ for longer and bolder mixes.&lt;/li&gt;
+&lt;li&gt;Albums can stay gapless like on the record ("Gapless albums"), playlists get mixed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Queue and Endless&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Endless: when the queue runs out, Luma keeps playing fitting songs from your library, same genre first. The upcoming songs have their own part of the queue.&lt;/li&gt;
+&lt;li&gt;"Clear" removes only what you added yourself. The album or playlist keeps playing.&lt;/li&gt;
+&lt;li&gt;A song change no longer makes the queue hang for a moment, even with long lists.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Also New&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The bars on the playing song move with the music, like on the iPhone&lt;/li&gt;
+&lt;li&gt;Search shows the best matches first. Words found together rank higher, and the section with the best match comes first.&lt;/li&gt;
+&lt;li&gt;Songs keep their own cover when it differs from the album's&lt;/li&gt;
+&lt;li&gt;Cover corners are now a slider in points, from square to round (Settings ▸ Appearance)&lt;/li&gt;
+&lt;li&gt;A song's menu in a playlist has "Show Album" and "Show Artist"&lt;/li&gt;
+&lt;li&gt;In Statistics, the tiles open Songs, Albums, Artists and Playlists, and clicking a top artist opens their page&lt;/li&gt;
+&lt;li&gt;Settings ▸ General shows the build number next to the version&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Improved and Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Less battery: the loudness analysis of the whole library runs only on the power adapter and starts by itself once the Mac is plugged in. What is about to play is still measured right away.&lt;/li&gt;
+&lt;li&gt;After the sleep timer and after longer pauses, playback no longer keeps the Mac awake for nothing&lt;/li&gt;
+&lt;li&gt;Importing is much faster and no longer slows down with large libraries&lt;/li&gt;
+&lt;li&gt;Covers need less memory, large images are scaled down on import&lt;/li&gt;
+&lt;li&gt;Exporting to iCloud Drive no longer wrongly reports "Not enough space"&lt;/li&gt;
+&lt;li&gt;Dynamic playlists save only complete rules, and edits are not lost on an error&lt;/li&gt;
+&lt;li&gt;The last sidebar entries no longer disappear under "Settings"&lt;/li&gt;
+&lt;li&gt;English texts: singular forms are right ("1 song"), and messages while scanning the library and writing tags are translated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luma Transfer gets no new features in this version, only the corrected English count texts.&lt;/p&gt;
+&lt;p&gt;Feedback and bug reports are welcome on the &lt;a href="https://suenavus.com/luma/help/"&gt;help page&lt;/a&gt;.&lt;/p&gt;</description>
+      <description xml:lang="de">&lt;h2&gt;Luma für Mac 1.4.0&lt;/h2&gt;
+&lt;h3&gt;Taktmix&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Taktmix wechselt Songs wie ein DJ: Er sucht passende Stellen, überblendet im Takt, tauscht den Bass, schneidet auf den Schlag oder blendet mit Filter und Echo über. Passt nichts davon, gilt Cross-Fade.&lt;/li&gt;
+&lt;li&gt;Ein- und ausschalten direkt im Kopf der Warteschlange. Während eines Übergangs leuchtet „Taktmix“ in der Wiedergabeleiste.&lt;/li&gt;
+&lt;li&gt;Zwei Modi unter Einstellungen ▸ Wiedergabe: Smooth für sanfte Übergänge, DJ für längere und mutigere Mixe.&lt;/li&gt;
+&lt;li&gt;Alben bleiben auf Wunsch lückenlos wie auf der Platte („Alben lückenlos“), in Playlists wird gemischt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Warteschlange und Unendlich&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Unendlich: Ist die Warteschlange zu Ende, spielt Luma mit passenden Songs aus deiner Mediathek weiter, zuerst aus demselben Genre. Die kommenden Songs stehen in einem eigenen Teil der Warteschlange.&lt;/li&gt;
+&lt;li&gt;„Leeren“ entfernt nur, was du selbst hinzugefügt hast. Das Album oder die Playlist läuft weiter.&lt;/li&gt;
+&lt;li&gt;Ein Songwechsel lässt die Warteschlange nicht mehr kurz hängen, auch bei langen Listen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Außerdem neu&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Die Balken am laufenden Song bewegen sich mit der Musik, wie auf dem iPhone&lt;/li&gt;
+&lt;li&gt;Die Suche zeigt die besten Treffer zuerst. Wörter, die zusammen vorkommen, zählen mehr, und der Abschnitt mit dem besten Treffer steht oben.&lt;/li&gt;
+&lt;li&gt;Songs behalten ihr eigenes Cover, wenn es von dem des Albums abweicht&lt;/li&gt;
+&lt;li&gt;Cover-Ecken sind jetzt ein Regler in Punkten, von eckig bis rund (Einstellungen ▸ Darstellung)&lt;/li&gt;
+&lt;li&gt;Im Menü eines Songs in einer Playlist gibt es „Album anzeigen“ und „Künstler anzeigen“&lt;/li&gt;
+&lt;li&gt;In den Statistiken öffnen die Kacheln Songs, Alben, Künstler und Playlists, und ein Klick auf einen Top-Künstler öffnet seine Seite&lt;/li&gt;
+&lt;li&gt;Einstellungen ▸ Allgemein zeigt neben der Version auch die Build-Nummer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Verbessert und behoben&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Weniger Akku: Die Lautstärkeanalyse der ganzen Mediathek läuft nur noch am Netzteil und startet von selbst, sobald der Mac angeschlossen wird. Was gleich gespielt wird, wird weiterhin sofort gemessen.&lt;/li&gt;
+&lt;li&gt;Nach dem Schlaftimer und nach längeren Pausen hält der Mac die Wiedergabe nicht mehr unnötig wach&lt;/li&gt;
+&lt;li&gt;Der Import ist deutlich schneller und wird bei großen Mediatheken nicht mehr langsamer&lt;/li&gt;
+&lt;li&gt;Weniger Speicherbedarf bei Covern, große Bilder werden beim Import verkleinert&lt;/li&gt;
+&lt;li&gt;Der Export in iCloud Drive meldet nicht mehr fälschlich „Zu wenig Platz“&lt;/li&gt;
+&lt;li&gt;Dynamische Playlists speichern nur vollständige Regeln, Änderungen gehen bei einem Fehler nicht verloren&lt;/li&gt;
+&lt;li&gt;Die unteren Einträge der Seitenleiste verschwinden nicht mehr unter „Einstellungen“&lt;/li&gt;
+&lt;li&gt;Englische Texte: Einzahl stimmt („1 song“), dazu übersetzte Meldungen beim Durchsuchen der Mediathek und beim Schreiben von Tags&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luma Transfer bekommt in dieser Version keine neuen Funktionen, nur die korrigierten englischen Zähltexte.&lt;/p&gt;
+&lt;p&gt;Feedback und Fehler gerne über die &lt;a href="https://suenavus.com/luma/help/"&gt;Hilfeseite&lt;/a&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Miotares/luma-releases/releases/download/mac-v1.4.0/Luma.dmg" length="10075293" type="application/octet-stream" sparkle:edSignature="3tblgehiNfL2JMNZIda1Kws2lHUyrKueOwKPLziS/sNrEUw6ECIaHYopsEbfEta224vj13JUIW/hTLpDVT9tBQ==" />
+    </item>
+    <item>
       <title>1.2.0</title>
       <pubDate>Tue, 27 Oct 2026 22:55:47 GMT</pubDate>
       <sparkle:version>209</sparkle:version>
