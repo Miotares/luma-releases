@@ -3,6 +3,108 @@
   <channel>
     <title>Luma Transfer</title>
     <item>
+      <title>1.4.1</title>
+      <pubDate>Fri, 20 Nov 2026 17:48:24 GMT</pubDate>
+      <sparkle:version>416</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;Luma for Mac 1.4.1&lt;/h2&gt;
+&lt;h3&gt;The Player Across the Whole Window&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A new button in the now-playing bar, or View ▸ Open Player (⌥⌘P): the player grows out of the bar and fills the window, with a large cover, title, artist and album, and the lyrics or the queue beside it.&lt;/li&gt;
+&lt;li&gt;The controls stay where they are, and search sits at the top. Close it with the same button, with Esc or ⌥⌘P.&lt;/li&gt;
+&lt;li&gt;Next to the title, the bars move with the music.&lt;/li&gt;
+&lt;li&gt;Right-click the cover or title of the playing song, in the bar and in the player: show its album, artist or playlist, add it to a playlist, like it, show it in Finder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Backgrounds in the Cover's Color&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Settings ▸ Appearance ▸ Background: Cover Blur (the cover, blurred), Color (the cover's most striking color) or Plain. It applies to albums, artists, playlists, collections and the open player.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Luma Now Speaks Six Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Luma for Mac and Luma Transfer now also come in Spanish, French, Japanese and Simplified Chinese. The language follows your Mac's setting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Library and Search&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Genres in the sidebar: every genre and its songs. Hide it with a right-click or under Settings ▸ General ▸ Library.&lt;/li&gt;
+&lt;li&gt;Artists, Songs, Liked and Genres each have their own sort menu in the page header, and your choice is remembered.&lt;/li&gt;
+&lt;li&gt;"Show in Finder" for songs, albums and selected songs.&lt;/li&gt;
+&lt;li&gt;Under album cards, the artist name opens the artist page. The quick-play buttons only appear while the pointer is on the cover.&lt;/li&gt;
+&lt;li&gt;Search history: with the search field empty, the results you opened last show below it. Turn it off or clear it under Settings ▸ General ▸ Search.&lt;/li&gt;
+&lt;li&gt;Songs marked explicit in their tags show an E after the title.&lt;/li&gt;
+&lt;li&gt;Album pages show the genre before the year and length (Settings ▸ Appearance ▸ Genre on album pages).&lt;/li&gt;
+&lt;li&gt;"Recently Played" on the Home page lists only albums you started as an album.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Queue and Beat Mix&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The queue header is tidier: Reorder, Beat Mix and Endless share one capsule, and the arrow beside it folds the queue away.&lt;/li&gt;
+&lt;li&gt;Pick the Beat Mix mode (Off, Smooth, DJ) with a right-click on the Beat Mix button or in the Playback menu. Endless is there too.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Improved and Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Search finds songs, albums and artists again, in the search field and in Quick Search.&lt;/li&gt;
+&lt;li&gt;Typing fast and pressing Return now plays the match for the whole search text, not the one for the first letters.&lt;/li&gt;
+&lt;li&gt;Music folders: when a folder can't be read, or only partly, its songs stay in the library. When many songs are missing after "Refresh Library", Luma asks whether to remove them. Removing a music folder now asks first.&lt;/li&gt;
+&lt;li&gt;No more click when the queue changes just before a song ends.&lt;/li&gt;
+&lt;li&gt;At the end of the queue the last song stays there, paused, also after "Next Track" from the media keys.&lt;/li&gt;
+&lt;li&gt;A song's menu in a playlist no longer offers "Delete Track". There you only take it out of the playlist, and the file stays.&lt;/li&gt;
+&lt;li&gt;After ⌘H, Luma opens its window again instead of a second one.&lt;/li&gt;
+&lt;li&gt;Fewer crashes when songs, albums or artists disappear while the music folders are scanned.&lt;/li&gt;
+&lt;li&gt;Empty or broken files no longer play in a loop.&lt;/li&gt;
+&lt;li&gt;Lyrics with repeated timestamps show in the right order.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luma Transfer gets no new features in this version besides the new languages.&lt;/p&gt;
+&lt;p&gt;Feedback and bug reports are welcome on the &lt;a href="https://suenavus.com/luma/help/"&gt;help page&lt;/a&gt;.&lt;/p&gt;</description>
+      <description xml:lang="de">&lt;h2&gt;Luma für Mac 1.4.1&lt;/h2&gt;
+&lt;h3&gt;Der Player über das ganze Fenster&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Neue Taste in der Wiedergabeleiste, oder Ansicht ▸ Player öffnen (⌥⌘P): Der Player wächst aus der Leiste und füllt das Fenster, mit großem Cover, Titel, Künstler und Album, daneben die Songtexte oder die Warteschlange.&lt;/li&gt;
+&lt;li&gt;Die Bedienung bleibt an ihrem Platz, die Suche steht oben. Schließen mit derselben Taste, mit Esc oder ⌥⌘P.&lt;/li&gt;
+&lt;li&gt;Neben dem Titel bewegen sich die Balken mit der Musik.&lt;/li&gt;
+&lt;li&gt;Rechtsklick auf Cover oder Titel des laufenden Songs, in der Leiste und im Player: Album, Künstler oder Playlist anzeigen, zu einer Playlist hinzufügen, liken, im Finder zeigen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Hintergrund in der Farbe des Covers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Einstellungen ▸ Darstellung ▸ Hintergrund: Cover-Blur (das Cover verschwommen), Farbe (die auffälligste Farbe des Covers) oder Schlicht. Gilt für Alben, Künstler, Playlists, Sammlungen und den offenen Player.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Luma spricht jetzt sechs Sprachen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Luma für Mac und Luma Transfer gibt es jetzt auch auf Spanisch, Französisch, Japanisch und Chinesisch (vereinfacht). Die Sprache folgt der Einstellung deines Macs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Mediathek und Suche&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Genres in der Seitenleiste: alle Genres und ihre Songs. Ausblenden per Rechtsklick oder unter Einstellungen ▸ Allgemein ▸ Mediathek.&lt;/li&gt;
+&lt;li&gt;Künstler, Songs, Liked und Genres haben ein eigenes Sortiermenü im Kopf der Seite, deine Wahl bleibt gespeichert.&lt;/li&gt;
+&lt;li&gt;„Im Finder zeigen“ für Songs, Alben und ausgewählte Songs.&lt;/li&gt;
+&lt;li&gt;Unter Albumkarten öffnet der Künstlername die Künstlerseite. Die Tasten zum schnellen Abspielen erscheinen nur noch, wenn der Zeiger auf dem Cover liegt.&lt;/li&gt;
+&lt;li&gt;Suchverlauf: Bei leerem Suchfeld stehen die zuletzt geöffneten Treffer darunter. Abschalten oder löschen unter Einstellungen ▸ Allgemein ▸ Suchen.&lt;/li&gt;
+&lt;li&gt;Songs, die in ihren Tags als explizit markiert sind, zeigen ein E hinter dem Titel.&lt;/li&gt;
+&lt;li&gt;Albumseiten zeigen das Genre vor Jahr und Spieldauer (Einstellungen ▸ Darstellung ▸ Genre auf Albumseiten).&lt;/li&gt;
+&lt;li&gt;„Zuletzt gespielt“ auf der Startseite zeigt nur noch Alben, die du als Album gestartet hast.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Warteschlange und Taktmix&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Der Kopf der Warteschlange ist aufgeräumt: Neu ordnen, Taktmix und Unendlich sitzen in einer Kapsel, eingeklappt wird mit dem Pfeil daneben.&lt;/li&gt;
+&lt;li&gt;Den Taktmix-Modus (Aus, Smooth, DJ) wählst du per Rechtsklick auf die Taktmix-Taste oder im Menü Wiedergabe. Dort steht auch Unendlich.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Verbessert und behoben&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Die Suche findet wieder Songs, Alben und Künstler, im Suchfeld und in der Schnellsuche.&lt;/li&gt;
+&lt;li&gt;Wer schnell tippt und Return drückt, spielt jetzt den Treffer für den ganzen Suchtext, nicht den für die ersten Buchstaben.&lt;/li&gt;
+&lt;li&gt;Musikordner: Lässt sich ein Ordner nicht oder nur teilweise lesen, bleiben seine Songs in der Mediathek. Fehlen nach „Mediathek aktualisieren“ viele Songs, fragt Luma, ob sie entfernt werden sollen. Einen Musikordner zu entfernen fragt jetzt vorher nach.&lt;/li&gt;
+&lt;li&gt;Ändert sich die Warteschlange kurz vor dem Ende eines Songs, knackt es nicht mehr.&lt;/li&gt;
+&lt;li&gt;Am Ende der Warteschlange bleibt der letzte Song pausiert stehen, auch nach „Nächster Titel“ über die Medientasten.&lt;/li&gt;
+&lt;li&gt;Im Menü eines Songs in einer Playlist steht kein „Titel löschen“ mehr. Dort nimmst du ihn nur aus der Playlist, die Datei bleibt.&lt;/li&gt;
+&lt;li&gt;Nach ⌘H öffnet Luma wieder sein Fenster statt eines zweiten.&lt;/li&gt;
+&lt;li&gt;Weniger Abstürze, wenn beim Einlesen der Musikordner Songs, Alben oder Künstler wegfallen.&lt;/li&gt;
+&lt;li&gt;Leere oder kaputte Dateien laufen nicht mehr in einer Schleife.&lt;/li&gt;
+&lt;li&gt;Songtexte mit doppelten Zeitstempeln stehen in der richtigen Reihenfolge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luma Transfer bekommt in dieser Version keine neuen Funktionen außer den neuen Sprachen.&lt;/p&gt;
+&lt;p&gt;Feedback und Fehler gerne über die &lt;a href="https://suenavus.com/luma/help/"&gt;Hilfeseite&lt;/a&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/Miotares/luma-releases/releases/download/mac-v1.4.1/Luma-Transfer.dmg" length="2135391" type="application/octet-stream" sparkle:edSignature="vjT1xsbOFvJ6k2bRKtOdVEBaTcSHx6yY3v0u4uRc028mEqVd72LSNYB/qbLP8HiXafUuNXLEqgdUcuIzzty3DQ==" />
+    </item>
+    <item>
       <title>1.4.0</title>
       <pubDate>Sun, 15 Nov 2026 23:21:14 GMT</pubDate>
       <sparkle:version>318</sparkle:version>
